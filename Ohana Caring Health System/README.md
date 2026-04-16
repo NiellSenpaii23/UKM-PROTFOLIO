@@ -14,5 +14,8 @@ Deskripsi: Pembangunan laman web Klinik Ohana ketika menjalani latihan industri 
 
 <img width="579" height="608" alt="Dashboard" src="https://github.com/user-attachments/assets/9e635ae5-4c14-4e2f-9b56-7b92509eb290" />
 
+
+
 Database:
+
 <img width="581" height="709" alt="database" src="https://github.com/user-attachments/assets/39805cd6-78cf-46b9-b0b1-656d99550eab" />
